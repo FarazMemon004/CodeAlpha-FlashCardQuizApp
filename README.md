@@ -46,10 +46,9 @@ Flashcards are stored locally using Room Database, so they can remain available 
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/FlashcardQuizApp.git
+git clone https://github.com/FarazMemon004/CodeAlpha-FlashCardQuizApp/tree/main
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username and adjust the repository name if you used a different one.
 
 ### 2. Open the Project
 
