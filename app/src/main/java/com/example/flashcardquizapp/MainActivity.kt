@@ -158,7 +158,7 @@ fun FlashLearnApp(database: FlashcardDatabase) {
 
                     Column {
                         Text(
-                            "FlashLearn",
+                            "FlashWise",
                             fontSize = 25.sp,
                             fontWeight = FontWeight.Bold,
                             color = Ink
